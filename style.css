@@ -1,0 +1,19 @@
+*{
+  padding:0;
+  margin:0;
+}
+
+.header{
+  background-color:greenyellow;
+  text-align: center;
+}
+
+h1{
+  padding-top:10%;
+  padding-bottom:10px;
+}
+
+.hintButton{
+  height:50px;
+  width:100px;
+}
